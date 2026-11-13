@@ -1,0 +1,10 @@
+{
+  "name": "AirScript",
+  "description": "Your Finger Is the Pen. The Air Is Your Canvas. Real-time client-side air finger writing with MediaPipe hand tracking and HTML5 Canvas.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
